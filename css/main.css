@@ -298,6 +298,7 @@ body {
 }
 
 .inner-page-link a {
+  font-size: 4rem;
   color: black;
   text-decoration: underline;
 }
