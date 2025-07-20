@@ -303,6 +303,7 @@ body {
 }
 
 .portfolio-back {
+  display: inline-block;
   font-size: 4rem;
 }
 
